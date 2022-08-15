@@ -29,4 +29,4 @@ This repository was created using [Cookiecutter](https://github.com/cookiecutter
 
 Special thanks to all [contributors](https://github.com/tomtom-international-labs/maps-sdk-android-display-a-map/blob/master/CONTRIBUTORS.md).
 
-edited by me
+edited by me 1
