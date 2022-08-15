@@ -28,3 +28,5 @@ At the end of a day, you will create an Android app which will look like this:
 This repository was created using [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the [tomtom-international/cookiecutter-android](https://github.com/tomtom-international/cookiecutter-android) project template.
 
 Special thanks to all [contributors](https://github.com/tomtom-international-labs/maps-sdk-android-display-a-map/blob/master/CONTRIBUTORS.md).
+
+edited by me
